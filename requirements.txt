@@ -1,0 +1,4 @@
+bentoml
+fastapi
+uvicorn
+inflect
